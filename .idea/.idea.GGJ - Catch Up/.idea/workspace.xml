@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eceb47cf-724d-4633-81e1-c192ed5f16c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Train/Train.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Train/Environment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/LevelChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/Opening.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Action/Spawner/Foot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tomato.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TomatoMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LittleTomato.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BigTomatoes.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Camera/CameraFollow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ActionHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Train/Train.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SpawnerTimer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FootSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Foot/FootDamage.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Action/ActionHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/Audio.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tomato/BigTomatoes.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Action/Opening.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Action/LevelChanger.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Train/Environment.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LastScene.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Action/LastScene.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Action/Spawner/FootSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tomato/LittleTomato.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Action/Spawner/Foot.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1nkB0ubMcjqi7NT50xlbZX7hi37" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

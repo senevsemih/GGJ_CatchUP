@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Semih\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Semih\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_GGJ - Catch Up.2104887675.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Semih\Desktop\GGJ - Catch Up" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Action" t="Include">
+            <e p="ActionHandler.cs" t="Include" />
+            <e p="LastScene.cs" t="Include" />
+            <e p="LevelChanger.cs" t="Include" />
+            <e p="Opening.cs" t="Include" />
+            <e p="Spawner" t="Include">
+              <e p="Foot.cs" t="Include" />
+              <e p="FootSpawner.cs" t="Include" />
+              <e p="SpawnerTimer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Audio" t="Include">
+            <e p="AudioController.cs" t="Include" />
+          </e>
+          <e p="Camera" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+          </e>
+          <e p="Tomato" t="Include">
+            <e p="BigTomatoes.cs" t="Include" />
+            <e p="LittleTomato.cs" t="Include" />
+          </e>
+          <e p="Train" t="Include">
+            <e p="Environment.cs" t="Include" />
+            <e p="Train.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GGJ - Catch Up.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
